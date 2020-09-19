@@ -507,7 +507,7 @@ msgstr "run status:"
 
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:1101
 msgid "MICROBE_EDITOR_REPORT"
-msgstr "СООБЩИТЬ"
+msgstr "ОТЧЁТ"
 
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:1121
 msgid "MICROBE_EDITOR_PATCH"
@@ -974,7 +974,7 @@ msgstr "Rusticyanin"
 
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:5080
 msgid "MICROBE_EDITOR_TOOLTIP_TURN_IRON"
-msgstr "Включая Железо"
+msgstr "Превращает Железо"
 
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:5139
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:7211
@@ -1003,7 +1003,7 @@ msgstr "Нитрогеназа"
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:7152
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:7543
 msgid "MICROBE_EDITOR_TOOLTIP_TURN_ATP"
-msgstr "Включая АТФ"
+msgstr "Превращает АТФ"
 
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:5327
 #: ../src/microbe_stage/editor/MicrobeEditor.tscn:7169
